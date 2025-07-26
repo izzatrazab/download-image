@@ -1,5 +1,5 @@
 {
-  "name": "@help/download-image",
+  "name": "@help_me/get-image",
   "version": "1.0.0",
   "type": "module",
   "main": "index.js",
@@ -7,7 +7,18 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Izzat Razab",
   "license": "ISC",
-  "description": ""
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izzatrazab/download-image.git"
+  },
+  "bugs": {
+    "url": "https://github.com/izzatrazab/download-image/issues"
+  },
+  "homepage": "https://github.com/izzatrazab/download-image#readme",
+  "description": "",
+  "publishConfig": {
+    "access": "public"
+  }
 }

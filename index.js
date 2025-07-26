@@ -9,7 +9,7 @@ import { URL } from 'url';
  * @param {*} outputFilePath including the name of the download file
  * @returns 
  */
-export function downloadImage(image_url, outputFilePath) {
+export function getImage(image_url, outputFilePath) {
     const url = new URL(image_url);
     const client = url.protocol === 'https:' ? https : http;
 
