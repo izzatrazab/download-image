@@ -1,6 +1,6 @@
 {
   "name": "@help_me/get-image",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "type": "module",
   "main": "index.js",
   "scripts": {
@@ -11,12 +11,13 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/izzatrazab/download-image.git"
+    "url": "git+https://github.com/izzatrazab/get-image.git"
+    
   },
   "bugs": {
-    "url": "https://github.com/izzatrazab/download-image/issues"
+    "url": "https://github.com/izzatrazab/get-image/issues"
   },
-  "homepage": "https://github.com/izzatrazab/download-image#readme",
+  "homepage": "https://github.com/izzatrazab/get-image#readme",
   "description": "",
   "publishConfig": {
     "access": "public"
